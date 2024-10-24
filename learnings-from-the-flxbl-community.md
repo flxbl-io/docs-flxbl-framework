@@ -4,11 +4,17 @@ description: A curated list of recorded talks on projects using flxbl
 
 # Learnings from the flxbl community
 
+{% embed url="https://www.youtube.com/watch?v=E82zNOBLpHk" %}
+
+{% embed url="https://www.youtube.com/watch?v=WBsyjkQtvVg" %}
+
 
 
 {% embed url="https://www.youtube.com/watch?v=nOjHolDHihs" %}
 
 {% embed url="https://youtu.be/nch-NppqFUI?si=YKQhNubjKHll-SM0" %}
+sfops@Orde
+{% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=09WEqN1emIM" %}
 Nathan Abondance & Jeremy Vial  - Elevate your DevOps
