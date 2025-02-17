@@ -26,6 +26,7 @@
   * [Handling Profiles](techniques/source-code-management/handling-profiles.md)
   * [Tracking Manual Steps](techniques/source-code-management/tracking-manual-steps.md)
 * [Environment Management](techniques/environment-management/README.md)
+  * [Guiding Principles](techniques/environment-management/guiding-principles.md)
   * [Pooling Scratch Orgs](techniques/environment-management/pooling-scratch-orgs.md)
 
 ## BUILD AUTOMATION
