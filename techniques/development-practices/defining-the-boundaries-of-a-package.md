@@ -10,7 +10,7 @@ The first three modular principles are about  _**cohesion**_, they tell us what 
 | **CRP** | The Common Reuse Principle              | _Components that are **used together** are packaged together._ |
 
 \
-The last three principles are about the _**couplings**_ between packages and talk about metrics that evaluate the package structure of a system.\\
+The last three principles are about the _**couplings**_ between packages and talk about metrics that evaluate the package structure of a system.
 
 | **ADP** | The Acyclic Dependencies Principle | _The dependency graph of packages must have no cycles._ |
 | ------- | ---------------------------------- | ------------------------------------------------------- |
@@ -25,9 +25,9 @@ The Anatomy of a Package is important to understand; however, it is also importa
 
 #### The Release Reuse Equivalency Principle (REP)
 
-> \*\*The granule of reuse is the granule of release. Only components that are released through a tracking system can be effectively reused. This granule is the package \*\*
+> **The granule of reuse is the granule of release. Only components that are released through a tracking system can be effectively reused. This granule is the package**&#x20;
 
-Reusability is one of the most oft claimed goals of OOD. But what is reuse?
+Reusability is one of the most often claimed goals of OOD. But what is reuse?
 
 Reuse can come in different flavours
 
@@ -48,7 +48,7 @@ A simple example might be a trigger handler interface and its associated base cl
 
 #### The Common Reuse Principle (CRP)
 
-> **The components in a package should be closed together against the same kind of changes. A change that affects a package affects all components in that package**
+> **The components in a package should be closed together against the same kind of changes. A change that affects a package affects all components in that package.**
 
 More important than reusability, is maintainability. When a change to components of an application is required, it would be beneficial if the changes were focused on a single package rather than across multiple packages. This ensures that a release for this change only contains the one package, other packages that don't depend upon the changed package do not need to be revalidated or re-released.
 
