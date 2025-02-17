@@ -8,7 +8,7 @@ Scratch Org pools help development teams to solve the time taken to spin up a sc
 
 {% embed url="https://medium.com/@dieffrei/dx-scale-scratch-org-pools-1dbecfcda8f8" %}
 
-The following sections deal with the typical pool strategies followed by DX@Scale practitioners.
+The following sections deal with the typical pool strategies followed by **flxbl** practitioners.
 
 ## Number of Pools Required
 
