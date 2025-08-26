@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Why Flxbl](why-flxbl.md)
+* [The AI Acceleration: Why These Problems Are About to Get Worse](the-ai-acceleration-why-these-problems-are-about-to-get-worse.md)
 * [Minimal Framework](minimal-framework.md)
 * [Who uses flxbl?](who-uses-flxbl.md)
 * [Learnings from the flxbl community](learnings-from-the-flxbl-community.md)
