@@ -30,7 +30,8 @@
 * [Environment Management](techniques/environment-management/README.md)
   * [Guiding Principles](techniques/environment-management/guiding-principles.md)
   * [Pooling Scratch Orgs](techniques/environment-management/pooling-scratch-orgs.md)
-
+  * [Pooling Sandboxes](techniques/environment-management/pooling-sandboxes.md)
+  
 ## BUILD AUTOMATION
 
 * [sfp](https://docs.flxbl.io/sfp)
