@@ -43,6 +43,7 @@
 
 * [sfdc-feature-management](https://github.com/flxbl-io/sfdc-feature-management)
 * [sfdc-trigger-framework](https://github.com/flxbl-io/sfdc-trigger-framework)
+* [flxbl-execution-framework](libraries/flxbl-execution-framework.md)
 * [nebula logger](https://github.com/jongpie/NebulaLogger)
 
 ## tools
