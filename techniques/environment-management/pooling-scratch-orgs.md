@@ -46,7 +46,7 @@ It is highly recommended to build a delete pool pipeline that could be triggered
 
 ## Monitoring Pools
 
-Scratch Org Pools can be monitored using an analytic tool like DataDog or New Relic. Check sfp documentation to understand the [metrics](https://app.gitbook.com/s/YLI5Ts7pWhWQV9UaBn3H/command-guide/advanced/metrics) emitted by sfp. A sample dashboard is attached below
+Scratch Org Pools can be monitored using an analytic tool like DataDog or New Relic. Check sfp documentation to understand the [metrics](https://app.gitbook.com/s/YLI5Ts7pWhWQV9UaBn3H/cli-reference/advanced/metrics) emitted by sfp. A sample dashboard is attached below
 
 
 
